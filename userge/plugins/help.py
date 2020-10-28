@@ -355,7 +355,7 @@ if userge.has_bot:
                 ),
                 url="https://github.com/UsergeTeam/Userge",
                 description="Setup Your Own",
-                thumb_url="https://imgur.com/download/Inyeb1S",
+                thumb_url="https://raw.githubusercontent.com/OwnerZamanNow/Userge/beta/resources/userge.png",
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
@@ -381,7 +381,7 @@ if userge.has_bot:
                     ),
                     url="https://github.com/UsergeTeam/Userge",
                     description="Userge Main Menu",
-                    thumb_url="https://imgur.com/download/Inyeb1S",
+                    thumb_url="https://raw.githubusercontent.com/OwnerZamanNow/Userge/beta/resources/userge.png",
                     reply_markup=InlineKeyboardMarkup(main_menu_buttons())
                 )
             )
